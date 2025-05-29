@@ -15,7 +15,7 @@
   align-items: center;
   justify-content: center;
   gap: 0px;
-  background-color: rgb(252, 252, 252);
+  background-color: rgb(244, 238, 238);
   /* text-align: center; */
 }
 .fblogin {
@@ -49,10 +49,12 @@ border: 0px solid transparent;
 #fname{
   width: 320px;
   height: 30px;
+  border-radius: 2px;
 }
 #lname{
   width: 320px;
   height: 30px;
+  border-radius:2xp ;
 }
 .createbutton{
   background-color: rgb(53, 168, 66);

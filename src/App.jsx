@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <div class="fblogin" style={{ backgroundColor: "F5F5F5" }}>
+    <div class="fblogin" style={{ backgroundColor: "F1F0E9" }}>
       
         
       <img src="https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg"width={400} alt="" />
