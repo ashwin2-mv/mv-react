@@ -1,0 +1,66 @@
+/* Minimal CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.card {
+  /* max-width: 1280px;
+  margin: 0 auto; */
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0px;
+  background-color: rgb(248, 247, 247);
+  /* text-align: center; */
+}
+.fblogin {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  /* gap: 15px; */
+  height: 100vh;
+}
+
+.login-fb {
+  
+   border: 1px solid transparent;
+  border-radius: 10px;
+  width: 360px;
+  height: 260px;
+  ;
+  
+}
+.button{
+  background-color: rgb(66, 123, 229);
+border: 0px solid transparent;
+ padding: 10px; ;
+  border-radius: 2px;
+  width: 320px;
+  height: 30px;
+  color: white;
+  
+}
+#fname{
+  width: 320px;
+  height: 30px;
+}
+#lname{
+  width: 320px;
+  height: 30px;
+}
+.createbutton{
+  background-color: rgb(53, 168, 66);
+  margin-top: 20px;
+  padding: 10px;
+  color: white;
+  border: 0px solid transparent;
+  border-radius: 3px;
+  width: 200px;
+  height: 50px;
+}
